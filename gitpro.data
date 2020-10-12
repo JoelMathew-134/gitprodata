@@ -1,0 +1,8 @@
+numbers1=[1,2,3,4,5]
+numbers2=(20,40,60,80,100)
+words1={1:"A",2:"B",3:"C"}
+numbers1.append(6)
+print(numbers1)
+print(numbers2[3])
+del words1[1]
+print(words1)
